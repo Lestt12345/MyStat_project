@@ -1,0 +1,12 @@
+full_name: Igor
+grupa: P-31
+monetki: 8
+kristaliki: 6
+medalki: 1
+v_grupe: 7
+v_potoke: 17
+ser_bal: 12
+vidviduvan: 100
+dz: C++, Home work, 2024-11-10; C++, Lab Work, 2024-11-15;
+otziv: C++, Deniska, good work, 2024-10-21; C++, Deniska, good, 2024-10-21;
+nagorodi: 10 vidviduvan, 20 vidviduvan;

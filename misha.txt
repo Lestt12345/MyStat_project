@@ -1,0 +1,12 @@
+full_name: Misha
+grupa: P-31
+monetki: 12
+kristaliki: 4
+medalki: 3
+v_grupe: 1
+v_potoke: 2
+ser_bal: 12
+vidviduvan: 100
+dz: C++, Home work, 2024-11-10; C++, Lab Work, 2024-11-15;
+otziv: C++, Deniska, good work, 2024-10-21; C++, Deniska, good, 2024-10-21;
+nagorodi: 10 vidviduvan, 20 vidviduvan;
