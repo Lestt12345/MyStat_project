@@ -90,7 +90,7 @@ public:
     }
 
     // Метод для загрузки информации о пользователе из файла
-    void load_from_file(string filename) {
+    void load_from_file(string filename) { // chek README.md in git
         ifstream file(filename); // Открываем файл
         if (!file) {
             cout << "file not found: " << filename << "\n"; // Если файл не найден
