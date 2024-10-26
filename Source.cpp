@@ -80,7 +80,7 @@ public:
             return;
         }
         string line;
-        while (getline(file, line)) { // эт я в ютубе чекал когда-то, не гпт
+        while (getline(file, line)) { // chek README.md in git
             istringstream iss(line);
             string key;
             if (getline(iss, key, ':')) {
